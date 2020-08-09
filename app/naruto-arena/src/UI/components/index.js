@@ -1,0 +1,1 @@
+export { Personagem } from './personagem/personagem.components'

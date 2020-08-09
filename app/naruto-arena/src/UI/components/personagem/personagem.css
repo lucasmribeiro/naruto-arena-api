@@ -1,0 +1,11 @@
+.item-personagem{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 2% 2% 0 0;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+}
